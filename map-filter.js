@@ -6,7 +6,7 @@ const numbers = [2, 3, 4, 5, 6, 7, 8];
 //     resultInside.push(result);
 // }
 
-                                    // map--> Array, find--> one Element , filter--> array
+                                    // map--> Array, find--> one Element , filter--> array,only the matching element;
 // console.log(resultInside);
 
 // const result = numbers.map(x => x * x);
