@@ -16,15 +16,13 @@
 let age = {};
 if (age) {
     console.log("Condition is true");
-}
-else{
+} else {
     console.log("Condition is flase");
 }
 
-const ages = 0;   // age = 0; then it will go to the else condition.
+const ages = 0; // age = 0; then it will go to the else condition.
 if (ages) {
     console.log("Condition is true");
-}
-else{
+} else {
     console.log("Condition is flase");
 }
