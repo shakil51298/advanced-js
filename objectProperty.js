@@ -5,7 +5,7 @@ const students = [
     {id:12, name:"Azam Molla"}
 ]
 const unique = [];
-
+                        // find return only the first matching elements.
 for (let i = 0; i < students.length; i++) {
     const objects = students[i];
     unique.push(objects.name);
