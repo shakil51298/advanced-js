@@ -6,3 +6,11 @@ for (let i = 0; i < nums.length; i++) {
      }
     
 }
+
+
+if ('false') {
+    console.log('i am 10')
+} 
+else {
+    console.log("i am false");    
+}
